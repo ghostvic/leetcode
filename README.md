@@ -1,2 +1,2 @@
 # leetcode
-This project is for imporve coding ability.
+This project is for imporving coding ability.
