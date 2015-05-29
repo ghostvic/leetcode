@@ -6,7 +6,8 @@ and it should return false if every element is distinct.
 '''
 
 '''
-My solution is using a dict, and it is o(n) of time complexity 
+My solution is using a dict, and the time complexity is o(n),
+since it is o(1) to claculate if a dict has one specific key in hash table (has_key()).
 '''
 class Solution:
     # @param {integer[]} nums
