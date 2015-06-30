@@ -5,7 +5,7 @@ For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] is rotated to [5,6,
 '''
 
 '''
-The idea of this solution is: the array we can cut it into 2, A:[1,2,3,4,5] B:[6,7].
+The idea of this solution is: the array we can cut it into 3, A:[1,2,3,4] B:[5,6,7].
 To get the result[B,A], first revers A, then reverse B, then reverse the entire array.
 The time complexity is O(n) and space complexity is O(1)
 '''
