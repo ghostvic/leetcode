@@ -15,6 +15,8 @@ tail.next = tmp
 head = current 
 current = tmp
 tmp = tmp.next
+
+The time complexity is O(n) and the space complexity is O(1).
 '''
 
 # Definition for singly-linked list.
